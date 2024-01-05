@@ -30,3 +30,5 @@ This is a course in Python Business
 4. Diez de Octubre
 5. Santa María de la Providencia
 6. Pamer
+7. Saco Oliveros
+8. María Reina
