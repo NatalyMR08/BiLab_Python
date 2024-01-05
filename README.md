@@ -16,3 +16,9 @@ This is a course in Python Business
 2. Wonka
 3. Avatar
 4. Star Wars
+
+## Artists
+1. Sam Smith
+2. Danny Ocean
+3. Shakira
+4. Adele
