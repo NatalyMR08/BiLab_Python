@@ -8,3 +8,4 @@ This is a course in Python Business
 4. Joe Calderon
 5. Andrea Acero
 6. Camila Quilcata
+7. Briggit Gamboa
