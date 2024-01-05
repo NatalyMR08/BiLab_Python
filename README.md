@@ -29,3 +29,4 @@ This is a course in Python Business
 3. Talentos
 4. Diez de Octubre
 5. Santa María de la Providencia
+6. Pamer
