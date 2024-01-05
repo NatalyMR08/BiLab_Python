@@ -22,3 +22,10 @@ This is a course in Python Business
 2. Danny Ocean
 3. Shakira
 4. Adele
+
+## Schools
+1. Salesiano
+2. Trilce
+3. Talentos
+4. Diez de Octubre
+5. Santa María de la Providencia
